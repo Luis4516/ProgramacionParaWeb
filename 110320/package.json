@@ -1,0 +1,16 @@
+{
+  "name": "110320",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "random-numbers-generators": "^1.0.6",
+    "request": "^2.88.2"
+  }
+}
